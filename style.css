@@ -1,0 +1,141 @@
+*
+{
+    margin:0px;
+    padding:0px;
+}
+.video-background{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: -100;
+}
+.nav{
+    background: rgba(0,0,0,0.5);
+    height:80px;
+}
+.logo{
+    margin: 10px 50px;
+    height: 60px;
+    border-radius: 20%;
+}
+.menu{
+    float: right;
+    list-style: none;
+    margin: 20px;
+}
+.menu li{
+    display: inline-block;
+    margin: 10px 5px;
+}
+h1{
+    color: white;
+    font-family: 'montserrat', sans-serif;
+    margin-right: 400px;
+    font-size: 23px;
+    margin-top: 08px;
+}
+.menu li a{
+    text-decoration: none;
+    color: white;
+    padding: 5px 10px;
+    font-family: 'montserrat', sans-serif;
+    letter-spacing: 2px;
+}
+.menu li a:hover{
+    color: rosybrown;
+}
+.msg{
+    color: white;
+    font-family:'montserrat', sans-serif;
+    font-size: 42px;
+    text-align:center;
+    margin-top: 200px;
+}
+.image{
+    text-align: right;
+    margin-left: 100%;
+}
+.image1{
+    border-radius: 25%;
+    margin:5px;
+}
+.image2{
+    border-radius: 25%;
+    margin-right:5px;
+}
+.image3{
+    border-radius: 25%;
+        margin:5px;
+}
+.image4{
+    border-radius: 25%;
+        margin-right:5px;
+}
+.image5{
+    border-radius: 25%;
+        margin:5px;
+}
+
+pre{
+    margin-top:1343px;
+    height:130px;
+    font-size: 15px;
+    font-family: 'montserrat', sans-serif;
+}
+.fotter{
+    float: right;
+    margin-right: 255px;
+}
+.mob{
+    float:right;
+    margin-right:135px;
+}
+.email{
+  float: right;
+    margin-right:20px;
+}
+.primary{
+    background-color:antiquewhite;
+    margin-top:300px;
+    color:black;
+    font-family: 'montserrat', sans-serif;
+    font-size: 27px;
+    font-weight: bold;
+}
+p{
+    text-align:center;
+}
+.c{
+    margin-left:10px;
+    height:200px;
+    width: 500px;
+}
+.python{
+    margin-left: 10px;
+    width:608px;
+}
+.andriod{
+    height:200px;
+}
+.working{
+    background-color:antiquewhite;
+    color:black;
+    font-family: 'montserrat', sans-serif;
+    font-size: 27px;
+    font-weight: bold;
+}
+p{
+    text-align:center;
+}
+.m{
+    margin-left: 7px;
+}
+
+
+
+
+

@@ -1,0 +1,32 @@
+*
+{
+    margin:0px;
+    padding:0px;
+}
+body{
+    background-color:antiquewhite;
+}
+.nav{
+    background-color:rgba(0,0,0,0.3);
+    height: 80px;
+}
+.logo{
+    margin: 0px 50px;
+    height: 60px;
+    border-radius: 20%;
+    margin-top: 16px;
+}
+.nav h1{
+    color:white;
+    font-family:'montserrat', sans-serif;
+float:right;
+    margin-right:50%;
+    margin-top:25px;
+}
+.image{
+    margin: 15px;
+}
+.image image{
+    border: 2px solid black;
+    border-radius: 10px;
+}
